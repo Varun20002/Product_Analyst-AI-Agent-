@@ -1,0 +1,5 @@
+streamlit
+agno
+firecrawl
+google-genai
+
